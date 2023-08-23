@@ -52,6 +52,7 @@
 
  >Notes
 - List comprehension syntax `new_list = [new_item for item in list]`
+- Dictionary comprehension syntax `new_dict = {new_key:new_value for (key, value) in dict.items()}`
 - `title()` function to convert to title case in python
 - Python don't follow the balock scope
 - `global varname` syntax to use a global variable as a local however its not recomended as it make your code more failable.
